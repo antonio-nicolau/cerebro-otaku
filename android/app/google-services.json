@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96910763048",
+    "project_id": "cerebro-otaku",
+    "storage_bucket": "cerebro-otaku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96910763048:android:c63b364d95d3e9bacd811d",
+        "android_client_info": {
+          "package_name": "com.codeclean.otaku_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96910763048-ho7m8mf1f417sv31kdn6h8ejducrpgbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlum3IQngkwyDadqmCFydBt5ySma3VfWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96910763048-ho7m8mf1f417sv31kdn6h8ejducrpgbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
